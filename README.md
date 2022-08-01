@@ -1,5 +1,6 @@
 # General
-## Linux CLI, and HTTP
+- [x] Git Basics
+### Linux CLI, and HTTP
 <details>
   <summary>Screenshots</summary>
   
