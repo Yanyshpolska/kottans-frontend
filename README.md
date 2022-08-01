@@ -1,16 +1,26 @@
-# :heavy_check_mark: General
-- [ ] 0. Git Basics
-- [ ] 1. Linux CLI and Networking
+# General
+## Linux CLI, and HTTP
+<details>
+  <summary>Screenshots</summary>
+  
+![Quiz 1](https://github.com/Yanyshpolska/kottans-frontend/blob/main/task_linux_cli/Linux_quiz_1.jpg)
+![Quiz 2](https://github.com/Yanyshpolska/kottans-frontend/blob/main/task_linux_cli/Linux_quiz_2.jpg)
+![Quiz 3](https://github.com/Yanyshpolska/kottans-frontend/blob/main/task_linux_cli/Linux_quiz_3.jpg)
+![Quiz 4](https://github.com/Yanyshpolska/kottans-frontend/blob/main/task_linux_cli/Linux_quiz_4.jpg)
+</details>
+
+Цікаво було познайомитись більше з командами Linux. 
+
 - [ ] 2. VCS (hello gitty), GitHub and Collaboration
 
-# Front-End Basics
+### Front-End Basics
 - [ ] 3. Intro to HTML & CSS
 - [ ] 4. Responsive Web Design
 - [ ] 5. HTML & CSS Practice
 - [ ] 6. JavaScript Basics
 - [ ] 7. Document Object Model - practice
   
-# Advanced Topics
+### Advanced Topics
 - [ ] 8. Building a Tiny JS World (pre-OOP) - practice
 - [ ] 9. Object oriented JS - practice
 - [ ] 10. OOP exercise - practice
