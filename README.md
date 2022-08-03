@@ -1,6 +1,4 @@
-# General
-- [x] Git Basics
-### Linux CLI, and HTTP
+## :heavy_check_mark: Linux CLI, and HTTP
 <details>
   <summary>Screenshots</summary>
   
