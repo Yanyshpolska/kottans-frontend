@@ -1,4 +1,4 @@
-## :heavy_check_mark: Linux CLI, and HTTP
+## Linux CLI, and HTTP
 <details>
   <summary>Screenshots</summary>
   
@@ -28,6 +28,8 @@
 3. Загалом, обидві частини статті систематизували і поглибили знання про протокол HTTP.
 </details>
 
+<br>
+<br>
 - [ ] 2. VCS (hello gitty), GitHub and Collaboration
 
 ### Front-End Basics
