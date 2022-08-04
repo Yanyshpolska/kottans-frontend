@@ -28,9 +28,13 @@
 3. Загалом, обидві частини статті систематизували і поглибили знання про протокол HTTP.
 </details>
 
-<br>
-<br>
-VCS (hello gitty), GitHub and Collaboration
+## Git Collaboration
+<details>
+  <summary>Screenshots</summary>
+  
+![Quiz 1](https://github.com/Yanyshpolska/kottans-frontend/blob/main/task_git_collaboration/learngit_1.jpg)
+![Quiz 2](https://github.com/Yanyshpolska/kottans-frontend/blob/main/task_git_collaboration/learngit_2.jpg)
+</details>
 
 ### Front-End Basics
 - [ ] 3. Intro to HTML & CSS
