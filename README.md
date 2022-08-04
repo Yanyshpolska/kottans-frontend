@@ -30,7 +30,7 @@
 
 <br>
 <br>
-- [ ] 2. VCS (hello gitty), GitHub and Collaboration
+VCS (hello gitty), GitHub and Collaboration
 
 ### Front-End Basics
 - [ ] 3. Intro to HTML & CSS
