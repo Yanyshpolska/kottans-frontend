@@ -29,12 +29,31 @@
 </details>
 
 ## Git Collaboration
+
+**Introduction to Git and GitHub**<br>
+1. Цей курс був моїм першим знайомством з Git, тому новим було все. Але з кожною наступною лекцією приходило все більше розуміння матеріалу.
+2. Сподобалась реалізація роботи системи контролю версій загалом. Раніше ніколи не задумувалась про необхідність такої системи. Здавалось така нескладна річ, а наскільки може полегшити роботу в команді і не тільки.
+3. Планую користуватись Git і GitHub. Сподобалось безпосередньо з нього відкривати файл для редагування в VSC - просто магія :)
+
 <details>
-  <summary>Screenshots</summary>
+  <summary>Screenshots Introduction to Git and GitHub</summary>
   
-![Quiz 1](https://github.com/Yanyshpolska/kottans-frontend/blob/main/task_git_collaboration/learngit_1.jpg)
-![Quiz 2](https://github.com/Yanyshpolska/kottans-frontend/blob/main/task_git_collaboration/learngit_2.jpg)
+![Week 3](https://github.com/Yanyshpolska/kottans-frontend/blob/main/task_git_collaboration/week_3.jpg)
+![Week 4](https://github.com/Yanyshpolska/kottans-frontend/blob/main/task_git_collaboration/week_4.jpg)
 </details>
+
+**Рівні  learngitbranching.js.org**<br>
+1. Дуже цікава, інтерактивна практика-гра для вивчення і розуміння команд Git. Цікаві логічні задачки.
+2. Деякі рівні спершу лякали своїми завданнями, але часто дивувала саме простота рішень.
+3. В майбутньому планую повернутись і пройти деякі рівні вдруге, щоб закріпити матеріал.
+
+<details>
+  <summary>Screenshots learngitbranching levels</summary>
+  
+![Learngit 1](https://github.com/Yanyshpolska/kottans-frontend/blob/main/task_git_collaboration/learngit_1.jpg)
+![Learngit 2](https://github.com/Yanyshpolska/kottans-frontend/blob/main/task_git_collaboration/learngit_2.jpg)
+</details>
+
 
 ### Front-End Basics
 - [ ] 3. Intro to HTML & CSS
