@@ -90,6 +90,23 @@ _Додаткові матеріали_
 - [x] Can't Unsee - brilliant and useful challenge
 - [x] Publish your static web site using GitHub Pages
 
+## Responsive Web Design
+
+**Responsive web design basics**
+
+**FLEXBOX. Вчимося верстати на флексах / CSS Grid Layout**<br>
+Давно слуідкую за каналом Євгена, і якраз проходила його плейліст навчання по верстці. Нещодавно передивлялась відео і з цих підбірок. Дуже подобається подача матеріалу, все чітко, зрозуміло і без води. І саме основне - знаєш куди можна повернутись і підглянути, якщо щось забулось.
+
+**Flexbox Froggy / Grid Garden - ігри для закріплення**
+Власне і ігри ці проходила раніше, але було корисно пройти їх знову, щоб пригадати принцип роботи Flex і Grid.
+
+<details>
+  <summary>Flex і Grid</summary> 
+  
+![Flex](https://github.com/Yanyshpolska/kottans-frontend/blob/main/task_responsive_web_design/Flex.jpg)
+![Grid](https://github.com/Yanyshpolska/kottans-frontend/blob/main/task_responsive_web_design/Grid.jpg)
+</details>
+
 ### General
 - [x] 0. Git Basics
 - [x] 1. Linux CLI and Networking
