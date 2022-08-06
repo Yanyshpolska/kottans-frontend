@@ -54,9 +54,49 @@
 ![Learngit 2](https://github.com/Yanyshpolska/kottans-frontend/blob/main/task_git_collaboration/learngit_2.jpg)
 </details>
 
+## Intro to HTML and CSS
+**Курс Intro to HTML and CSS**<br>
+Корисно було послухати ще один варіант пояснень про принципи роботи HTML і CSS. В курсі дуже хороший розбір комбінувань CSS елементів. Краще зрозуміла роботу box-sizing і позиціонування елементів.
+
+<details>
+  <summary>Курс Intro to HTML and CSS</summary> 
+  
+![HTML](https://github.com/Yanyshpolska/kottans-frontend/blob/main/task_html_css_intro/Week_1_HTML.jpg)
+![CSS](https://github.com/Yanyshpolska/kottans-frontend/blob/main/task_html_css_intro/Week_2_CSS.jpg)
+</details>
+
+**Learn HTML(Eng)**<br>
+Корисно було потренуватись працювати з формами і, особливо, з прив'язкою label через id. Раніше таке не зустрічала, тому точно запам`ятаю на майбутнє.
+
+<details>
+  <summary>Learn HTML(Eng)</summary> 
+  
+![Learn_HTML](https://github.com/Yanyshpolska/kottans-frontend/blob/main/task_html_css_intro/Learn_HTML.jpg)
+</details>
+
+**Learn CSS(Eng)**<br>
+В одному прикладі дізналась, що CSS стиль можна прописувати і для атрибутів тегів HTML. 
+
+<details>
+  <summary>Learn CSS(Eng)</summary> 
+  
+![Learn_HTML](https://github.com/Yanyshpolska/kottans-frontend/blob/main/task_html_css_intro/Learn_CSS.jpg)
+</details>
+
+_Додаткові матеріали_
+- [x] HTML уроки (з 3 по 7 відео)
+- [x] CSS уроки (з 9 по 15 відео)
+- [ ] Intro to HTML @github
+- [x] Can't Unsee - brilliant and useful challenge
+- [ ] Publish your static web site using GitHub Pages
+
+### General
+- [x] 0. Git Basics
+- [x] 1. Linux CLI and Networking
+- [x] 2. VCS (hello gitty), GitHub and Collaboration
 
 ### Front-End Basics
-- [ ] 3. Intro to HTML & CSS
+- [x] 3. Intro to HTML & CSS
 - [ ] 4. Responsive Web Design
 - [ ] 5. HTML & CSS Practice
 - [ ] 6. JavaScript Basics
@@ -70,4 +110,3 @@
 - [ ] 12. Memory pair game — real project!
 - [ ] 13. Website Performance Optimization - optional
 - [ ] 14. Friends App - real project!
-
