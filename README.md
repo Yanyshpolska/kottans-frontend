@@ -86,9 +86,9 @@
 _Додаткові матеріали_
 - [x] HTML уроки (з 3 по 7 відео)
 - [x] CSS уроки (з 9 по 15 відео)
-- [ ] Intro to HTML @github
+- [x] Intro to HTML @github
 - [x] Can't Unsee - brilliant and useful challenge
-- [ ] Publish your static web site using GitHub Pages
+- [x] Publish your static web site using GitHub Pages
 
 ### General
 - [x] 0. Git Basics
