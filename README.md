@@ -83,16 +83,20 @@
 ![Learn_HTML](https://github.com/Yanyshpolska/kottans-frontend/blob/main/task_html_css_intro/Learn_CSS.jpg)
 </details>
 
-_Додаткові матеріали_
+<details>
+  <summary>Додаткові матеріали</summary>
+  
 - [x] HTML уроки (з 3 по 7 відео)
 - [x] CSS уроки (з 9 по 15 відео)
 - [x] Intro to HTML @github
 - [x] Can't Unsee - brilliant and useful challenge
 - [x] Publish your static web site using GitHub Pages
+</details>
 
 ## Responsive Web Design
 
 **Responsive web design basics**
+Цікаво було дізнатись про оптимізацю тексту для читання в залежності від екрану пристрою.
 
 **FLEXBOX. Вчимося верстати на флексах / CSS Grid Layout**<br>
 Давно слуідкую за каналом Євгена, і якраз проходила його плейліст навчання по верстці. Нещодавно передивлялась відео і з цих підбірок. Дуже подобається подача матеріалу, все чітко, зрозуміло і без води. І саме основне - знаєш куди можна повернутись і підглянути, якщо щось забулось.
@@ -107,6 +111,16 @@ _Додаткові матеріали_
 ![Grid](https://github.com/Yanyshpolska/kottans-frontend/blob/main/task_responsive_web_design/Grid.jpg)
 </details>
 
+<details>
+  <summary>Додаткові матеріали</summary>
+  
+- [x] Specificity
+- [x] Specificity calculator
+- [ ] 11 things I learned reading the flexbox spec
+- [ ] Flexbox Zombies (game)
+- [x] HiDPI Screens and Web Development
+</details>
+
 ### General
 - [x] 0. Git Basics
 - [x] 1. Linux CLI and Networking
@@ -114,7 +128,7 @@ _Додаткові матеріали_
 
 ### Front-End Basics
 - [x] 3. Intro to HTML & CSS
-- [ ] 4. Responsive Web Design
+- [x] 4. Responsive Web Design
 - [ ] 5. HTML & CSS Practice
 - [ ] 6. JavaScript Basics
 - [ ] 7. Document Object Model - practice
