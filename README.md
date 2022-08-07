@@ -95,7 +95,7 @@
 
 ## Responsive Web Design
 
-**Responsive web design basics**
+**Responsive web design basics**<br>
 Цікаво було дізнатись про оптимізацю тексту для читання в залежності від екрану пристрою.
 
 **FLEXBOX. Вчимося верстати на флексах / CSS Grid Layout**<br>
