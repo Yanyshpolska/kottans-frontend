@@ -116,8 +116,8 @@
   
 - [x] Specificity
 - [x] Specificity calculator
-- [ ] 11 things I learned reading the flexbox spec
-- [ ] Flexbox Zombies (game)
+- [x] 11 things I learned reading the flexbox spec
+- [x] Flexbox Zombies (game) - дуже корисна гра, для розуміння роботи flex і запам'ятовування команд. 
 - [x] HiDPI Screens and Web Development
 </details>
 
