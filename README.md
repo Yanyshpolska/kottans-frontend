@@ -121,6 +121,26 @@
 - [x] HiDPI Screens and Web Development
 </details>
 
+## JS Basics
+
+**Вступ до JS**<br>
+Прослухала вступ до JS. Я почала розбиратись з JS самостійно ще десь місяць тому, через це багато інформації в лекціях була вже знайома. А от "Immediately Invoked Function Expressions" були новими.
+
+**FreeCodeCamp**<br>
+Найважчий розділ для мене - "Intermediate Algorithm Scripting". Якщо інші проходила в темпі, то лише по декілька задач на день. Плюс довелось пройти додатково задачки з RegExp, бо без їх розуміння навіть підказки не допомагали. Корисно було після свого рішення подивитись на інші варіанти розв'язків і розібратись як вони реалізовані. Важкими для розуміння (поки) лишились map і filter, тому дам собі ще трохи часу розібратись з ними. 
+
+<details>
+  <summary>Screenshots JS</summary> 
+  
+![Coursera](https://github.com/Yanyshpolska/kottans-frontend/blob/main/task_js_basics/Week_4_JS.png)
+![Basic JavaScript](https://github.com/Yanyshpolska/kottans-frontend/blob/main/task_js_basics/Basic_JavaScript.png)
+![ES6](https://github.com/Yanyshpolska/kottans-frontend/blob/main/task_js_basics/ES6.png) 
+![Basic Data Structures](https://github.com/Yanyshpolska/kottans-frontend/blob/main/task_js_basics/Basic_Data_Structures.png)  
+![Basic Algorithm Scripting](https://github.com/Yanyshpolska/kottans-frontend/blob/main/task_js_basics/Basic_Algorithm_Scripting.png) 
+![Functional Programming](https://github.com/Yanyshpolska/kottans-frontend/blob/main/task_js_basics/Functional_Programming.png) 
+![Intermediate Algorithm Scripting](https://github.com/Yanyshpolska/kottans-frontend/blob/main/task_js_basics/Intermediate_Algorithm_Scripting.png)   
+</details>
+  
 ### General
 - [x] 0. Git Basics
 - [x] 1. Linux CLI and Networking
@@ -130,7 +150,7 @@
 - [x] 3. Intro to HTML & CSS
 - [x] 4. Responsive Web Design
 - [ ] 5. HTML & CSS Practice
-- [ ] 6. JavaScript Basics
+- [x] 6. JavaScript Basics
 - [ ] 7. Document Object Model - practice
   
 ### Advanced Topics
