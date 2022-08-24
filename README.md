@@ -146,7 +146,7 @@ It was interesting challenge for me. First attempt to do something with new know
 ![Intermediate Algorithm Scripting](https://github.com/Yanyshpolska/kottans-frontend/blob/main/task_js_basics/Intermediate_Algorithm_Scripting.png)   
 </details>
 
-## Document Object Model
+## DOM
 
 <details>
   <summary>Screenshots DOM</summary> 
@@ -156,6 +156,8 @@ It was interesting challenge for me. First attempt to do something with new know
 </details>
 I like tea therefore for the topic of DOM site I have chosen the tea theme.<br>
 Actually, I even more like tea tags because I have the biggest collection of tea tags in Ukraine. I currently have over 22,000 different tea tags, so if you see an unusual tea tag, you can save it for my collection -^_^- <br>
+
+Practicing in the DOM was very useful. It was the first time trying to access objects in HTML. It was important to break the task into small ones and do them one by one. And as it turned out, everything was not as difficult as it seemed at the beginning.<br>
 
 [Demo](https://yanyshpolska.github.io/DOM/)<br>
 [Code base](https://github.com/Yanyshpolska/DOM)
