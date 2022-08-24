@@ -122,6 +122,7 @@
 </details>
 
 ## HTML і CSS практика: Hooli-style Popup
+
 It was interesting challenge for me. First attempt to do something with new knowledge. It wasn't quick, but it was useful.<br>
 [Demo](https://yanyshpolska.github.io/HWPopup/)<br>
 [Code base](https://github.com/Yanyshpolska/HWPopup)
@@ -161,6 +162,11 @@ Practicing in the DOM was very useful. It was the first time trying to access ob
 
 [Demo](https://yanyshpolska.github.io/DOM/)<br>
 [Code base](https://github.com/Yanyshpolska/DOM)
+
+## A Tiny JS World
+
+[Demo](https://yanyshpolska.github.io/a-tiny-JS-world/)<br>
+[Code base](https://github.com/Yanyshpolska/a-tiny-JS-world)
 
 ### General
 - [x] 0. Git Basics
