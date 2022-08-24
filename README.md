@@ -121,6 +121,11 @@
 - [x] HiDPI Screens and Web Development
 </details>
 
+## HTML і CSS практика: Hooli-style Popup
+It was interesting challenge for me. First attempt to do something with new knowledge. It wasn't quick, but it was useful.<br>
+[Demo](https://yanyshpolska.github.io/HWPopup/)<br>
+[Code base](https://github.com/Yanyshpolska/HWPopup)
+
 ## JS Basics
 
 **Вступ до JS**<br>
@@ -140,7 +145,21 @@
 ![Functional Programming](https://github.com/Yanyshpolska/kottans-frontend/blob/main/task_js_basics/Functional_Programming.png) 
 ![Intermediate Algorithm Scripting](https://github.com/Yanyshpolska/kottans-frontend/blob/main/task_js_basics/Intermediate_Algorithm_Scripting.png)   
 </details>
+
+## Document Object Model
+
+<details>
+  <summary>Screenshots DOM</summary> 
   
+![Coursera](https://github.com/Yanyshpolska/kottans-frontend/blob/main/task_js_dom/Week_5_DOM.png) 
+![Intermediate Algorithm Scripting](https://github.com/Yanyshpolska/kottans-frontend/blob/main/task_js_dom/Intermediate_Algorithm_Scripting.png)   
+</details>
+I like tea therefore for the topic of DOM site I have chosen the tea theme.<br>
+Actually, I even more like tea tags because I have the biggest collection of tea tags in Ukraine. I currently have over 22,000 different tea tags, so if you see an unusual tea tag, you can save it for my collection -^_^- <br>
+
+[Demo](https://yanyshpolska.github.io/DOM/)<br>
+[Code base](https://github.com/Yanyshpolska/DOM)
+
 ### General
 - [x] 0. Git Basics
 - [x] 1. Linux CLI and Networking
