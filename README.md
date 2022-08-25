@@ -164,7 +164,7 @@ Practicing in the DOM was very useful. It was the first time trying to access ob
 [Code base](https://github.com/Yanyshpolska/DOM)
 
 ## A Tiny JS World
-This task helped me better understand map and forEach methods on practice.
+This task helped me better understand map and forEach methods on practice.<br>
 [Demo](https://yanyshpolska.github.io/a-tiny-JS-world/)<br>
 [Code base](https://github.com/Yanyshpolska/a-tiny-JS-world)
 
