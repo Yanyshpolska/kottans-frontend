@@ -14,9 +14,9 @@
 - [x] [8. Building a Tiny JS World (pre-OOP) - practice](#a-tiny-js-world)
 - [ ] 9. Object oriented JS - practice
 - [ ] 10. OOP exercise - practice
-- [ ] 11. Offline Web Applications - optional
+- [ ] 11. *Offline Web Applications - optional*
 - [ ] 12. Memory pair game — real project!
-- [ ] 13. Website Performance Optimization - optional
+- [ ] 13. *Website Performance Optimization - optional*
 - [ ] 14. Friends App - real project!
 
 ## Linux CLI, and HTTP
@@ -177,7 +177,7 @@ It was interesting challenge for me. First attempt to do something with new know
 ![Intermediate Algorithm Scripting](https://github.com/Yanyshpolska/kottans-frontend/blob/main/task_js_dom/Intermediate_Algorithm_Scripting.png)   
 </details>
 I like tea therefore for the topic of DOM site I have chosen the tea theme.<br>
-Actually, I even more like tea tags because I have the biggest collection of tea tags in Ukraine. Currently I have over 22,000 different tea tags, so if you see an unusual tea tag, you can save it for my collection -^_^- <br>
+Actually, I'm collecting tea tags and I have the biggest collection of tea tags in Ukraine. Currently I have over 22,000 different tea tags, so if you see an unusual tea tag, you can save it for my collection -^_^- <br>
 
 Practicing in the DOM was very useful. It was the first time trying to access objects in HTML. It was important to break the task into small ones and do them one by one. And as it turned out, everything was not as difficult as it seemed at the beginning.<br>
 
