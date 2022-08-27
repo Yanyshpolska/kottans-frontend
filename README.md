@@ -11,13 +11,13 @@
 - [x] [7. Document Object Model - practice](#dom)
   
 ### Advanced Topics
-- [x] [8. Building a Tiny JS World (pre-OOP) - practice](#a-tiny-js-world)
-- [ ] [9. Object oriented JS - practice]
-- [ ] [10. OOP exercise - practice]
-- [ ] [11. Offline Web Applications - optional]
-- [ ] [12. Memory pair game — real project!]
-- [ ] [13. Website Performance Optimization - optional]
-- [ ] [14. Friends App - real project!]
+- [x] 8. Building a Tiny JS World (pre-OOP) - practice](#a-tiny-js-world)
+- [ ] 9. Object oriented JS - practice
+- [ ] 10. OOP exercise - practice
+- [ ] 11. Offline Web Applications - optional
+- [ ] 12. Memory pair game — real project!
+- [ ] 13. Website Performance Optimization - optional
+- [ ] 14. Friends App - real project!
 
 ## Linux CLI, and HTTP
 <details>
