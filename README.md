@@ -1,3 +1,24 @@
+### General
+- [x] 0. Git Basics
+- [x] [1. Linux CLI and Networking](#linux-cli-and-http)
+- [x] [2. VCS (hello gitty), GitHub and Collaboration](#git-collaboration)
+
+### Front-End Basics
+- [x] [3. Intro to HTML & CSS](#intro-to-html-and-css)
+- [x] [4. Responsive Web Design](#responsive-web-design)
+- [ ] 5. HTML & CSS Practice
+- [x] [6. JavaScript Basics](#js-basics)
+- [x] [7. Document Object Model - practice](#dom)
+  
+### Advanced Topics
+- [x] [8. Building a Tiny JS World (pre-OOP) - practice](#a-tiny-js-world)
+- [ ] [9. Object oriented JS - practice]
+- [ ] [10. OOP exercise - practice]
+- [ ] [11. Offline Web Applications - optional]
+- [ ] [12. Memory pair game — real project!]
+- [ ] [13. Website Performance Optimization - optional]
+- [ ] [14. Friends App - real project!]
+
 ## Linux CLI, and HTTP
 <details>
   <summary>Screenshots</summary>
@@ -167,24 +188,3 @@ Practicing in the DOM was very useful. It was the first time trying to access ob
 This task helped me better understand map and forEach methods on practice.<br>
 [Demo](https://yanyshpolska.github.io/a-tiny-JS-world/)<br>
 [Code base](https://github.com/Yanyshpolska/a-tiny-JS-world)
-
-### General
-- [x] 0. Git Basics
-- [x] 1. Linux CLI and Networking
-- [x] 2. VCS (hello gitty), GitHub and Collaboration
-
-### Front-End Basics
-- [x] 3. Intro to HTML & CSS
-- [x] 4. Responsive Web Design
-- [ ] 5. HTML & CSS Practice
-- [x] 6. JavaScript Basics
-- [ ] 7. Document Object Model - practice
-  
-### Advanced Topics
-- [x] 8. Building a Tiny JS World (pre-OOP) - practice
-- [ ] 9. Object oriented JS - practice
-- [ ] 10. OOP exercise - practice
-- [ ] 11. Offline Web Applications - optional
-- [ ] 12. Memory pair game — real project!
-- [ ] 13. Website Performance Optimization - optional
-- [ ] 14. Friends App - real project!
