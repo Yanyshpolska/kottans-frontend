@@ -12,7 +12,7 @@
   
 ### Advanced Topics
 - [x] [8. Building a Tiny JS World (pre-OOP) - practice](#a-tiny-js-world)
-- [ ] 9. Object oriented JS - practice
+- [x] [9. Object oriented JS - practice](#object-oriented-js)
 - [ ] 10. OOP exercise - practice
 - [ ] 11. *Offline Web Applications - optional*
 - [ ] 12. Memory pair game — real project!
@@ -189,3 +189,14 @@ Actually, I'm collecting tea tags and I have the biggest collection in Ukraine. 
 This task helped me better understand map and forEach methods on practice.<br>
 [Demo](https://yanyshpolska.github.io/a-tiny-JS-world/)<br>
 [Code base](https://github.com/Yanyshpolska/a-tiny-JS-world)
+
+## Object Oriented JS
+This was my first introduction to prototypes in JS. The practice was very useful and helped me understand them better.
+<details>
+  <summary>Codewars</summary> 
+  
+![Codewars](https://github.com/Yanyshpolska/kottans-frontend/blob/main/task_js_oop/Codewars.png) 
+</details>
+
+[Demo](https://yanyshpolska.github.io/Frogger-Game/)<br>
+[Code base](https://github.com/Yanyshpolska/Frogger-Game)
