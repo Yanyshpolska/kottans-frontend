@@ -202,6 +202,6 @@ This was my first introduction to prototypes in JS. The practice was very useful
 [Code base](https://github.com/Yanyshpolska/Frogger-Game)
 
 ## OOP exercise
-Great opportunity to get better practice with classes and objects of classes and inheritance.
+Great opportunity to get better practice with classes and objects of classes and inheritance.<br>
 [Demo](https://yanyshpolska.github.io/a-tiny-JS-world/)<br>
 [Code base](https://github.com/Yanyshpolska/a-tiny-JS-world)
