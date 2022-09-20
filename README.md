@@ -13,7 +13,7 @@
 ### Advanced Topics
 - [x] [8. Building a Tiny JS World (pre-OOP) - practice](#a-tiny-js-world)
 - [x] [9. Object oriented JS - practice](#object-oriented-js)
-- [ ] 10. OOP exercise - practice
+- [x] [10. OOP exercise - practice](#oop-exercise)
 - [ ] 11. *Offline Web Applications - optional*
 - [ ] 12. Memory pair game — real project!
 - [ ] 13. *Website Performance Optimization - optional*
@@ -200,3 +200,8 @@ This was my first introduction to prototypes in JS. The practice was very useful
 
 [Demo](https://yanyshpolska.github.io/Frogger-Game/)<br>
 [Code base](https://github.com/Yanyshpolska/Frogger-Game)
+
+## OOP exercise
+Great opportunity to get better practice with classes and objects of classes and inheritance.
+[Demo](https://yanyshpolska.github.io/a-tiny-JS-world/)<br>
+[Code base](https://github.com/Yanyshpolska/a-tiny-JS-world)
